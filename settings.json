@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GOD95772536.aternos.me",
+    "ip": "hagfish.aternos.host:45430",
     "port": 45430,
     "version": "1.21.1"
   },
